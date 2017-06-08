@@ -22,6 +22,7 @@
 - [ ] kafka & zookeeper
 - [ ] splunk
 - [ ] kubernetes
-- [ ] mesos & dcos
+- [ ] Mesos, Marathon & DCOS
 - [ ] Interview Questions & Prepartions
 - [ ] Best Practices
+- [ ] Open Stack
