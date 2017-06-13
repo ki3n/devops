@@ -1,7 +1,7 @@
 # Demystifying DevOps Engineering
 
 #Topics Covered:
-- [ ] DevOps Philosophy
+- [ ] [DevOps Philosophy](devops.md)
 - [ ] Linux 
 - [ ] Git
 - [ ] Jenkins
